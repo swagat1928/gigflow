@@ -2,6 +2,8 @@ GigFlow – Mini Freelance Marketplace
 
 GigFlow is a mini freelance marketplace platform where clients can post gigs, freelancers can bid on them, and clients can hire freelancers with real-time notifications using Socket.IO.
 
+Loom Video: https://www.loom.com/share/2377f339fe8746609c81c85b2a5f8863
+
 Features:
 Authentication:
 User registration & login
@@ -39,6 +41,8 @@ JWT Authentication
 Socket.IO
 
 
+
+
 Installation & Setup:
 
 1. Clone the repository
@@ -60,3 +64,5 @@ npm run dev
 cd frontend
 npm install
 npm run dev
+
+
